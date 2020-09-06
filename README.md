@@ -7,5 +7,5 @@
 * The Enter Key it's for search results base on the input content also you can select an autocomplete option with Enter Key too.
 
 ### Tecnologies I used
-* React ( Of course :) )
+* React ( Of course **:)** )
 * Redux (For a simple project like this i could use context API, but for demonstrations purposes i prefer to user redux)
