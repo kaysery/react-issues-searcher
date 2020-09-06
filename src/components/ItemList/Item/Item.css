@@ -1,0 +1,70 @@
+.autocomplete-active div{
+    background-color: DodgerBlue !important; 
+    color: #ffffff; 
+  }
+
+  .item-container{
+      width: 100%;
+      height: 50px;
+      padding: 0px;
+      border: 0.5px solid #ebebeb;
+      border-bottom-color: transparent;
+      padding-left: 8px;
+      display:flex; 
+      flex-direction:column;
+  }
+
+  .item-container:hover{
+    background-color: #e3e3e3;
+  }
+
+
+  .item-header{
+    display: flex;
+    justify-content: center space-between;
+ }
+
+  .item-title{
+    margin-top: 0;
+    font-weight: bold;
+    color:black;
+    cursor: pointer;
+    max-width: 650px;
+  }
+
+  .item-title a{
+    color:black;
+    display: block;
+    text-decoration: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .item-title a:hover{
+    color:#0366d6;
+  }
+
+
+  .labels-container{
+    margin-left: 15px;
+  }
+
+  .item-footer{
+    text-align: left;
+  }
+
+  .repo-info{
+    font-size: 12px;
+    color:  gray; 
+  }
+
+  .item-labels{
+    padding: 0 7px;
+    font-size: 12px;
+    font-weight: 500;
+    border:1px solid transparent;
+    border-radius: 50px;
+    margin-right: 2px;
+  }
+
