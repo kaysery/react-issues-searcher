@@ -1,5 +1,5 @@
 # React Issues Autocomplete
-** this project is a search engine with autocompletion for exclusively react issues **
+**this project is a search engine with autocompletion for exclusively react issues**
 
 ### Navigation ShortCuts
 * The Tab shortcut it's for navigation through the results.
